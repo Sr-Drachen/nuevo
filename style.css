@@ -1,0 +1,25 @@
+/* selector { propiedad: valor;} */
+
+label {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+
+main {
+  background-color:
+  rgb(61, 60, 60);
+}
+
+div {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+
+input{
+  color: dimgray;
+  font-weight: 600;
+}
+
+.alert{
+  color: hsl(202, 59%, 41%);
+}
